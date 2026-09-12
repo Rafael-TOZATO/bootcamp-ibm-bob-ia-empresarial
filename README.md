@@ -1,9 +1,9 @@
-# Bootcamp IBM Bob: IA de Nível Empresarial para Desenvolvedores e Tech Leaders
+# Bootcamp IBM Bob: IA de Nível Empresarial para Desenvolvedores e Tech Leaders# Bootcamp IBM Bob: IA de Nível Empresarial para Desenvolvedores e Tech Leaders
 
 [![Security Status](https://img.shields.io/badge/Security-Secured%20%26%20Verified-success?style=for-the-badge&logo=security&logoColor=white)](https://github.com/rafaeltozato81)
 
 Repositório estruturado para consolidar a jornada completa de capacitação, módulos teóricos, práticas de desenvolvimento e projetos executados no programa patrocinado pela **IBM** em parceria com a **DIO**[cite: 2].
-
+Repositório estruturado para consolidar a jornada completa de capacitação, módulos teóricos, práticas de desenvolvimento e projetos executados no programa patrocinado pela **IBM** em parceria com a **DIO**, com foco em versionamento profissional e agentes de IA.
 ## Trilha de Certificações Concluídas
 
 | Módulo / Curso | Carga Horária | Data | Código de Validação |
