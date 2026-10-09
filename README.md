@@ -63,4 +63,4 @@ Durante a execução prática da trilha e a estruturação do ambiente de desenv
 * **Portfólio / Hub:** [tozato-dev-hub.vercel.app](https://tozato-dev-hub.vercel.app)
 * **LinkedIn:** [linkedin.com/in/rafaeltozato81](https://linkedin.com/in/rafaeltozato81)
 * **Medium:** [medium.com/@ornelas.tozato](https://medium.com/@ornelas.tozato)
-* **DIO:** [web.dio.me/users/ornelas_tozato](https://web.dio.me/users/ornelas_tozato)
+* **Lovable:** [aurora-bi-dio.lovable.app](https://aurora-bi-dio.lovable.app)
