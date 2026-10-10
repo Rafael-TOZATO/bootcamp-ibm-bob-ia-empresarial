@@ -57,10 +57,11 @@ Durante a execução prática da trilha e a estruturação do ambiente de desenv
 
 ---
 
-## Contato e Redes
+## 📬 Contatos
 
-* **Nome:** Rafael Ornelas Tozato
-* **Portfólio / Hub:** [tozato-dev-hub.vercel.app](https://tozato-dev-hub.vercel.app)
-* **LinkedIn:** [linkedin.com/in/rafaeltozato81](https://linkedin.com/in/rafaeltozato81)
-* **Medium:** [medium.com/@ornelas.tozato](https://medium.com/@ornelas.tozato)
-* **Lovable:** [aurora-bi-dio.lovable.app](https://aurora-bi-dio.lovable.app)
+- 💼 **LinkedIn:** [rafaeltozato81](https://www.linkedin.com/in/rafaeltozato81)
+- 🐙 **GitHub:** [Rafael-TOZATO](https://github.com/Rafael-TOZATO)
+- ✍️ **Medium:** [@ornelas.tozato](https://medium.com/@ornelas.tozato)
+- 🌐 **Portfólio PWA:** [tozato-dev-hub.vercel.app](https://tozato-dev-hub.vercel.app)
+- 🚀 **Aurora BI (Lovable):** [aurora-bi-dio.lovable.app](https://aurora-bi-dio.lovable.app)
+
