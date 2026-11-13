@@ -10,18 +10,16 @@
   <img src="https://img.shields.io/badge/Lean%20Six%20Sigma-Green%20Belt-purple?style=for-the-badge&logo=ercot&logoColor=white" alt="Lean Six Sigma">
 </p>
 
-# Bootcamp IBM Bob: IA de Nível Empresarial para Desenvolvedores e Tech Leaders
-
-> **AI Engineer | Especialista em Governança 4.0 e Qualidade | Engenheiro Químico**  
-> [Mauá, SP](mailto:ornelas.tozato@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rafaeltozato81) | [GitHub](https://github.com/Rafael-TOZATO) | [Portfólio PWA](https://tozato-dev-hub.vercel.app) | [Medium](https://medium.com/@ornelas.tozato)
-
-[![Security Status](https://img.shields.io/badge/Security-Secured%20%26%20Verified-success?style=for-the-badge&logo=security&logoColor=white)](https://github.com/rafaeltozato81)
-
----
 [![CI/CD Pipeline & Quality Gates](https://img.shields.io/badge/CI%2FCD-Active-success?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com)
 [![CodeQL Security Scan](https://img.shields.io/badge/CodeQL-Protected-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 [![Auto-Merge Enabled](https://img.shields.io/badge/Auto--Merge-Streamlined-informational?style=for-the-badge&logo=git&logoColor=white)](https://github.com)
 [![Solo Workflow Compliance](https://img.shields.io/badge/Governan%C3%A7a-4.0-critical?style=for-the-badge&logo=appveyor&logoColor=white)](https://github.com)
+[![Security Status](https://img.shields.io/badge/Security-Secured%20%26%20Verified-success?style=for-the-badge&logo=security&logoColor=white)](https://github.com/rafaeltozato81)
+
+# Bootcamp IBM Bob: IA de Nível Empresarial para Desenvolvedores e Tech Leaders
+
+> **AI Engineer | Especialista em Governança 4.0 e Qualidade | Engenheiro Químico**  
+> [Mauá, SP](mailto:ornelas.tozato@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rafaeltozato81) | [GitHub](https://github.com/Rafael-TOZATO) | [Portfólio PWA](https://tozato-dev-hub.vercel.app) | [Medium](https://medium.com/@ornelas.tozato)
 
 ## Governança 4.0
 
