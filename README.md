@@ -17,6 +17,20 @@
 
 [![Security Status](https://img.shields.io/badge/Security-Secured%20%26%20Verified-success?style=for-the-badge&logo=security&logoColor=white)](https://github.com/rafaeltozato81)
 
+---
+[![CI/CD Pipeline & Quality Gates](https://img.shields.io/badge/CI%2FCD-Active-success?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com)
+[![CodeQL Security Scan](https://img.shields.io/badge/CodeQL-Protected-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+[![Auto-Merge Enabled](https://img.shields.io/badge/Auto--Merge-Streamlined-informational?style=for-the-badge&logo=git&logoColor=white)](https://github.com)
+[![Solo Workflow Compliance](https://img.shields.io/badge/Governan%C3%A7a-4.0-critical?style=for-the-badge&logo=appveyor&logoColor=white)](https://github.com)
+
+## Governança 4.0
+
+Este repositório adota os padrões de **Governança 4.0**, garantindo automação, rastreabilidade e segurança contínua para o desenvolvimento solo:
+
+* **Automação de Qualidade e Segurança:** Análises automatizadas e portas de verificação (*status checks*) ativas em segundo plano.
+* **Fluxo Sem Atrito:** Dispensa de aprovações manuais redundantes com *auto-merge* habilitado para agilizar entregas.
+* **Integridade de Código:** Proteção de branch e bloqueio de *force pushes* para garantir a estabilidade da base principal.
+
 Repositório estruturado para consolidar a jornada completa de capacitação, módulos teóricos, práticas de desenvolvimento e projetos executados no programa patrocinado pela **IBM** em parceria com a **DIO**, com foco em versionamento profissional e agentes de IA.
 
 ---
@@ -62,7 +76,6 @@ Durante a execução prática da trilha e a estruturação do ambiente de desenv
 - 💼 **LinkedIn:** [rafaeltozato81](https://www.linkedin.com/in/rafaeltozato81)
 - 🐙 **GitHub:** [Rafael-TOZATO](https://github.com/Rafael-TOZATO)
 - ✍️ **Medium:** [@ornelas.tozato](https://medium.com/@ornelas.tozato)
-- 🌐 **Portfólio PWA (Dev Hub):** [tozato-dev-hub.vercel.app](https://tozato-dev-hub.vercel.app)
-- 🌐 **H-Folio:** [h-folio-psi.vercel.app](https://h-folio-psi.vercel.app)
-- 🚀 **Aurora BI (Lovable):** [aurora-bi-dio.lovable.app](https://aurora-bi-dio.lovable.app)
+- 🌐 **Portfólio PWA (Dev Hub):** [tozato-ai-core.vercel.app](https://tozato-ai-core.vercel.app)
+- 🌐 **H-Folio:** [h-folio-l0.vercel.app](https://h-folio-l0.vercel.app)
 - 📜 **Microsoft Learn:** [Transcript](https://learn.microsoft.com/pt-br/users/rafaelornelastozato-2209/transcript/dzo2wizrzkx2853)
