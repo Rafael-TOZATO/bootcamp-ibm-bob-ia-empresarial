@@ -2,14 +2,24 @@
   <img src="Bootcamp-IBM-Bob.png" alt="Bootcamp IBM Bob Banner" width="100%">
 </p>
 
+<!-- CATEGORIA 1: STATUS, QUALIDADE & GOVERNANÇA -->
 <p align="center">
   <img src="https://img.shields.io/badge/Status-AI%20Engineer-success?style=for-the-badge&logo=git" alt="Status">
   <img src="https://img.shields.io/badge/Qualidade-ISO%209001-blue?style=for-the-badge&logo=checkmarx&logoColor=white" alt="ISO 9001">
   <img src="https://img.shields.io/badge/Governança-Indústria%204.0-orange?style=for-the-badge&logo=databricks&logoColor=white" alt="Indústria 4.0">
-  <img src="https://img.shields.io/badge/Python-%20AI-yellow?style=for-the-badge&logo=python&logoColor=white" alt="Python & IA">
   <img src="https://img.shields.io/badge/Lean%20Six%20Sigma-Green%20Belt-purple?style=for-the-badge&logo=ercot&logoColor=white" alt="Lean Six Sigma">
+</p>
+
+<!-- CATEGORIA 2: STACK TÉCNICA -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-%20AI-yellow?style=for-the-badge&logo=python&logoColor=white" alt="Python & IA">
+</p>
+
+<!-- CATEGORIA 3: DEVSCOPS, SEGURANÇA E CI/CD -->
+<p align="center">
   <img src="https://img.shields.io/badge/CI%2FCD-Active-success?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD">
   <img src="https://img.shields.io/badge/CodeQL-Protected-blue?style=for-the-badge&logo=github&logoColor=white" alt="CodeQL">
+  <img src="https://img.shields.io/badge/Secret%20Protection-Enabled-success?style=for-the-badge&logo=github&logoColor=white" alt="Secret Protection">
   <img src="https://img.shields.io/badge/Auto--Merge-Streamlined-informational?style=for-the-badge&logo=git&logoColor=white" alt="Auto-Merge">
   <img src="https://img.shields.io/badge/Governan%C3%A7a-4.0-critical?style=for-the-badge&logo=appveyor&logoColor=white" alt="Governança 4.0">
   <img src="https://img.shields.io/badge/Security-Secured%20%26%20Verified-success?style=for-the-badge&logo=security&logoColor=white" alt="Security">
