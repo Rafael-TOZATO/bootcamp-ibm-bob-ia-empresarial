@@ -1,0 +1,153 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" width="1200" height="380">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#030917"/>
+      <stop offset="50%" stop-color="#071633"/>
+      <stop offset="100%" stop-color="#09244d"/>
+    </linearGradient>
+
+    <linearGradient id="ibmAccent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0f62fe"/>
+      <stop offset="50%" stop-color="#00d9ff"/>
+      <stop offset="100%" stop-color="#14f1d9"/>
+    </linearGradient>
+
+    <linearGradient id="shieldGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0f62fe" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#061d47" stop-opacity="0.95"/>
+    </linearGradient>
+
+    <linearGradient id="sheenGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00d9ff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#00d9ff" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#00d9ff" stop-opacity="0"/>
+    </linearGradient>
+
+    <radialGradient id="shieldGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00d9ff" stop-opacity="0.32"/>
+      <stop offset="60%" stop-color="#0f62fe" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#0f62fe" stop-opacity="0"/>
+    </radialGradient>
+
+    <pattern id="techGrid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M 36 0 L 0 0 0 36" fill="none" stroke="#00d9ff" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+
+    <clipPath id="cardClip">
+      <rect x="28" y="24" width="1144" height="332" rx="18"/>
+    </clipPath>
+  </defs>
+
+  <!-- Fundo e Grade -->
+  <rect width="1200" height="380" fill="url(#bgGrad)"/>
+  <rect width="1200" height="380" fill="url(#techGrid)"/>
+
+  <!-- Glow atrás do escudo -->
+  <circle cx="1015" cy="182" r="210" fill="url(#shieldGlow)"/>
+
+  <!-- Card Principal -->
+  <rect x="28" y="24" width="1144" height="332" rx="18" fill="#061229" fill-opacity="0.82" stroke="url(#ibmAccent)" stroke-opacity="0.5" stroke-width="1.5"/>
+
+  <!-- Feixe de varredura luminosa -->
+  <g clip-path="url(#cardClip)">
+    <polygon points="-220,0 -70,0 -170,380 -320,380" fill="url(#sheenGrad)">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="1550 0" dur="4.8s" repeatCount="indefinite"/>
+    </polygon>
+  </g>
+
+  <!-- Barra lateral IBM Blue -> Cyan -->
+  <rect x="50" y="48" width="6" height="284" rx="3" fill="url(#ibmAccent)"/>
+
+  <!-- Header -->
+  <circle cx="80" cy="64" r="5" fill="#14f1d9">
+    <animate attributeName="opacity" values="1;0.25;1" dur="1.6s" repeatCount="indefinite"/>
+  </circle>
+  <text x="96" y="69" font-family="Consolas, 'Courier New', monospace" font-size="13.5" font-weight="bold" fill="#14f1d9" letter-spacing="1.4">
+    RAFAEL TOZATO  •  AI ENGINEER  •  ENTERPRISE TECH
+  </text>
+
+  <!-- Título e Subtítulo -->
+  <text x="76" y="118" font-family="Segoe UI, Arial, sans-serif" font-size="35" font-weight="bold" fill="#f4f7fb" letter-spacing="0.4">
+    IBM BOB: IA DE NÍVEL EMPRESARIAL
+  </text>
+  <text x="76" y="150" font-family="Segoe UI, Arial, sans-serif" font-size="18.5" fill="#a8bdd9">
+    Bootcamp Desenvolvedores &amp; Tech Leaders (DIO)  |  Automação &amp; IA Generativa
+  </text>
+
+  <!-- Linha divisória animada -->
+  <line x1="76" y1="174" x2="810" y2="174" stroke="#0f62fe" stroke-opacity="0.3" stroke-width="2"/>
+  <line x1="76" y1="174" x2="500" y2="174" stroke="url(#ibmAccent)" stroke-width="2.5">
+    <animate attributeName="x2" values="240;790;240" dur="5.2s" repeatCount="indefinite"/>
+  </line>
+
+  <!-- Pilares Técnicos (do diagrama da imagem) -->
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="bold">
+    <rect x="76" y="198" width="132" height="35" rx="17" fill="#0a2147" stroke="#00d9ff" stroke-opacity="0.65"/>
+    <text x="142" y="220" text-anchor="middle" fill="#eaf4ff">AI Assistant</text>
+
+    <rect x="220" y="198" width="176" height="35" rx="17" fill="#0a2147" stroke="#0f62fe" stroke-opacity="0.8"/>
+    <text x="308" y="220" text-anchor="middle" fill="#eaf4ff">Prompt Engineering</text>
+
+    <rect x="408" y="198" width="182" height="35" rx="17" fill="#0a2147" stroke="#14f1d9" stroke-opacity="0.65"/>
+    <text x="499" y="220" text-anchor="middle" fill="#eaf4ff">Process Automation</text>
+
+    <rect x="602" y="198" width="188" height="35" rx="17" fill="#0a2147" stroke="#00d9ff" stroke-opacity="0.65"/>
+    <text x="696" y="220" text-anchor="middle" fill="#eaf4ff">Python &amp; AI Workflow</text>
+  </g>
+
+  <!-- Faixa de Governança & Qualidade (dos badges abaixo do banner) -->
+  <text x="76" y="274" font-family="Consolas, 'Courier New', monospace" font-size="14" font-weight="bold" fill="#78a9ff" letter-spacing="0.8">
+    ISO 9001  •  GOVERNANÇA INDÚSTRIA 4.0  •  LEAN SIX SIGMA GREEN BELT
+  </text>
+
+  <!-- Link do Repositório -->
+  <text x="76" y="312" font-family="Consolas, 'Courier New', monospace" font-size="14" fill="#00d9ff">
+    &gt;_ github.com/Rafael-TOZATO/bootcamp-ibm-bob-ia-empresarial
+  </text>
+
+  <!-- Escudo Central Holográfico (IBM Bob Certification | DIO) -->
+  <g transform="translate(1015, 175)">
+    <!-- Anel orbital externo -->
+    <circle cx="0" cy="0" r="106" fill="none" stroke="#00d9ff" stroke-opacity="0.22" stroke-width="1.5" stroke-dasharray="10 7">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="18s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="0" cy="0" r="88" fill="none" stroke="#0f62fe" stroke-opacity="0.4" stroke-width="1.5">
+      <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="12s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- Satélite orbitando -->
+    <g>
+      <circle cx="106" cy="0" r="4.5" fill="#14f1d9"/>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="7s" repeatCount="indefinite"/>
+    </g>
+
+    <!-- Escudo -->
+    <path d="M 0,-74 L 62,-48 L 62,12 C 62,48 34,74 0,88 C -34,74 -62,48 -62,12 L -62,-48 Z"
+          fill="url(#shieldGrad)" stroke="#00d9ff" stroke-width="2.5"/>
+    <path d="M 0,-64 L 52,-41 L 52,11 C 52,41 28,63 0,76 C -28,63 -52,41 -52,11 L -52,-41 Z"
+          fill="none" stroke="#78a9ff" stroke-opacity="0.35" stroke-width="1"/>
+
+    <!-- Texto do Escudo -->
+    <text x="0" y="-14" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="bold" fill="#ffffff">
+      IBM Bob
+    </text>
+    <text x="0" y="9" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#cce4ff" letter-spacing="0.5">
+      Certification
+    </text>
+
+    <!-- Badge DIO dentro do escudo -->
+    <rect x="-28" y="22" width="56" height="24" rx="12" fill="#00d9ff" fill-opacity="0.18" stroke="#00d9ff" stroke-width="1.2"/>
+    <text x="0" y="39" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="bold" fill="#00e5ff" letter-spacing="1">
+      DIO
+    </text>
+  </g>
+
+  <!-- Tags Autodidata & Resiliente abaixo do escudo -->
+  <g font-family="Consolas, 'Courier New', monospace" font-size="11.5" font-weight="bold">
+    <rect x="912" y="298" width="98" height="26" rx="13" fill="#092145" stroke="#14f1d9" stroke-opacity="0.7"/>
+    <text x="961" y="315" text-anchor="middle" fill="#14f1d9">AUTODIDATA</text>
+
+    <rect x="1020" y="298" width="98" height="26" rx="13" fill="#092145" stroke="#00d9ff" stroke-opacity="0.7"/>
+    <text x="1069" y="315" text-anchor="middle" fill="#00d9ff">RESILIENTE</text>
+  </g>
+</svg>
