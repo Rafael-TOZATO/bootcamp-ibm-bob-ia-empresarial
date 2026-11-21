@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="Bootcamp-IBM-Bob.png" alt="Bootcamp IBM Bob Banner" width="100%">
-</p>
+<div align="center">
+  <img src="banner-ibm-bob.svg" width="100%" alt="Banner Bootcamp IBM Bob - Rafael Ornelas Tozato">
+</div>
 
 <!-- CATEGORIA 1: STATUS, QUALIDADE & GOVERNANÇA -->
 <p align="center">
